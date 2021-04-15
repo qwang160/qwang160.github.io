@@ -1,0 +1,13 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+span {
+  color: red;
+}
+
+#description,
+#name,
+#email,
+#license {
+  width: 62%;
+}
